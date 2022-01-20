@@ -1,0 +1,23 @@
+{
+  "name": "uperdupersuperbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord-banners": "^1.0.1",
+    "discord-group.js": "^0.1.2-dev",
+    "discord-timestamp": "^1.0.2",
+    "discord.js": "^13.5.0",
+    "quick.db": "^7.1.3"
+  },
+  "devDependencies": {
+    "node": "^16.6.1"
+  }
+}
